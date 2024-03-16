@@ -78,6 +78,7 @@ def bubble_sort(lst):
         draw(lst, [i])
     for num in range(200):
         draw(lst)
+        
 def insertion_sort(lst):
     
     for num in range(200):
@@ -106,6 +107,7 @@ def insertion_sort(lst):
             checkQuit()
     for num in range(200):
         draw(lst)
+        
 def selection_sort(lst):
 
     for num in range(200):
