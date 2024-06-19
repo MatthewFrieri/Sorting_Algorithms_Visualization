@@ -1,4 +1,4 @@
-# Sorting_Algorithms_Visualizer
+# Sorting_Algorithms_Visualization
 An interactive visualization of Bubble sort, Insertion sort, and Selection sort 
 
 ![plot](./Thumbnail1.png)
